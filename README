@@ -1,0 +1,9 @@
+Reincarnate - craft your spawn point
+A Bukkit plugin
+
+
+Place a sign with 'reincarnate' on the 1st line (can be 'Reincarnate:' etc.)
+
+Right click the sign - your name should appear.
+
+You will now spawn at that location.
